@@ -10,7 +10,7 @@ A Computer Science student at UT Dallas and Software Engineering Intern building
 
 ### 🚀 What I'm Up To
 - 🔭 **Currently working on:** Building the recommendation engine backend at **Wnted** (Berkeley SkyDeck fintech startup).
-- 💼 **Status:** Open to SWE internships and networking internships.
+- 💼 **Status:** Open to SWE internships and networking opportunities.
 
 ---
 
