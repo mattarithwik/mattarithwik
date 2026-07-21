@@ -60,9 +60,3 @@ A Computer Science student at UT Dallas and Software Engineering Intern building
 ### 🎓 Education
 - **University of Texas at Dallas** — *B.S. in Computer Science* (GPA: 3.97 | Expected Graduation: Dec 2027)
   - **Coursework:** Data Structures & Algorithms, Systems Programming in UNIX, Linear Algebra, Computer Architecture, Software Engineering.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mattarithwik&show_icons=true&theme=tokyonight&hide_border=true" alt="Rithwik's GitHub Stats" />
-</p>
