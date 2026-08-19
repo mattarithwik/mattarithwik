@@ -1,62 +1,72 @@
-# Hi there, I'm Rithwik Matta 👋
+# Hi, I'm Rithwik Matta 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rithwik-matta-bb8948231/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mattarithwik)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mattarithwik@gmail.com)
 
-A Computer Science student at UT Dallas and Software Engineering Intern building AI-driven recommendation backends, native macOS tools, and scalable SaaS cloud infrastructure. 
+Computer Science student at the University of Texas at Dallas building AI-powered products, full-stack applications, native macOS tools, and scalable cloud infrastructure.
 
----
+## What I'm Up To
 
-### 🚀 What I'm Up To
-- 🔭 **Currently working on:** Building the recommendation engine backend at **Wnted** (Berkeley SkyDeck fintech startup).
-- 💼 **Status:** Open to SWE internships and networking opportunities.
+- 💼 **SWE Intern:** Built recommendation systems and product experiences at **Wnted**.
+- 🍽️ **Co-Founder & CTO:** Architected **Rasvia**, an all-in-one restaurant SaaS platform.
+- 🎓 **Education:** Pursuing a B.S. in Computer Science at UT Dallas with a 3.94 GPA.
+- 🚀 **Open to:** Software engineering internships and networking opportunities.
 
----
-
-### 🛠️ Technical Toolkit
+## Technical Toolkit
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Java, Python, JavaScript, C, C++, Swift, Lua, SQL, Assembly |
-| **Cloud & Databases** | AWS (CDK, Bedrock, Lambda, DynamoDB, S3, Cognito), PostgreSQL, pgvector, MongoDB Atlas, Supabase, DigitalOcean |
-| **Frameworks & Libraries** | React, Vite, SwiftUI, OpenNext, NumPy, Pandas, Scikit-learn, XGBoost, Apple Vision, AVFoundation, ncurses |
-| **Tools & Infrastucture** | Linux/POSIX, Pthreads, Stripe, Hostinger SMTP, Prisma, Voyage AI, EAS CLI, TestFlight |
+| **Languages** | Rust, TypeScript, Java, Python, JavaScript, C, C++, Swift, Lua, SQL, Assembly |
+| **Cloud & Databases** | AWS CDK, Bedrock, Lambda, DynamoDB, S3, Cognito, PostgreSQL, pgvector, MongoDB Atlas, Supabase, DigitalOcean |
+| **Frameworks & Libraries** | React, React Native, Expo, FastAPI, Express, Prisma, Axum, Vite, SwiftUI, OpenNext, Pydantic, Jest, NumPy, Scikit-learn, XGBoost, Apple Vision, AVFoundation |
+| **Tools & DevOps** | Docker, GitHub Actions, Linux/POSIX, Stripe SDK, Twilio SDK, Hostinger SMTP, Voyage AI, Gemini API, EAS CLI, TestFlight |
 
----
+## Experience
 
-### 💼 Professional Experience
+### SWE Intern @ Wnted *(Jun 2026 – Aug 2026)*
+*Berkeley, CA · Remote*
 
-#### **SWE Intern** @ **Wnted** *(Jun 2026 – Present)*
-*Berkeley, CA (Remote)*
-- Built a recommendation engine backend utilizing a `pgvector` schema, user taste profiles, candidate product pools, and feedback tracking on PostgreSQL.
-- Leveraged a multimodal embedding service (Voyage AI via MongoDB Atlas) to vectorize products across titles, merchants, and images for semantic search.
-- Implemented batched API integrations with retries, SSRF-safe image handling, and read/write execution for 1024-dimensional cosine similarity searches.
+- Engineered an end-to-end recommendation pipeline using 1,024-dimensional Voyage AI multimodal embeddings and PostgreSQL/pgvector for real-time cosine-similarity search.
+- Built a personalized product deck-generation service using user taste profiles and real-time swipe feedback loops.
+- Developed a cross-platform React Native deck UI with fluid swipe gesture animations and dynamic feed prefetching.
+- Delivered rewards, savings goals, and wishlist workflows using Prisma, atomic transactions, idempotency keys, retry logic, and privacy controls.
 
----
+## Featured Projects
 
-### 📁 Highlighted Projects
+### 🍽️ [Rasvia](https://github.com/RasviaOrg/Rasvia1)
+*Co-Founder & Chief Technology Officer · Feb 2026 – Jun 2026*
 
-#### 📰 **RapidRead** 
-*AWS CDK, AWS Bedrock, DynamoDB, S3, Cognito, OpenNext, React*
-- Built a personalized news web app that ranks RSS articles based on user interests, recency, and feedback loops.
-- Designed an automated RSS ingestion pipeline that handles duplicate removal and triggers text enrichment/semantic attribute generation via AWS Bedrock (Claude Haiku).
-- Provisioned the entire serverless infrastructure as code using AWS CDK and deployed the application via OpenNext.
+- Co-founded and architected a restaurant SaaS platform streamlining operations from ordering to kitchen fulfillment.
+- Built RasviaAPI with FastAPI, Python, and Pydantic; developed web and mobile applications using React, Vite, Expo, and React Native.
+- Deployed infrastructure with Supabase and DigitalOcean and managed iOS and Android releases through EAS CLI, TestFlight, and Google Play Beta.
+- Integrated Stripe Connect for payments, Twilio Verify for authentication, and Hostinger SMTP for automated notifications.
 
-#### 👁️ **DeskDaemon** 
-*Swift, SwiftUI, Apple Vision, AVFoundation, macOS Accessibility*
-- Developed a native macOS menu bar app mapping 18+ complex hand gestures to over 30 configurable native system actions.
-- Implemented real-time hand tracking and smoothing frameworks using Apple Vision and AVFoundation.
-- Integrated deeply with macOS Accessibility APIs to control windows, desktops, media, and system settings.
+### 📰 [RapidRead](https://github.com/mattarithwik/RapidRead)
+*AWS CDK · AWS Bedrock · DynamoDB · S3 · Cognito · OpenNext · React*
 
-#### 🍽️ **Rasvia** 
-*Co-Founder & Chief Technology Officer (Feb 2026 – Jun 2026)*
-*Supabase, React, Vite, DigitalOcean, EAS CLI, Stripe*
-- Architected and co-founded an all-in-one restaurant SaaS managing front-of-house intake through kitchen fulfillment.
-- Engineered a scalable cloud infrastructure with real-time sync, automated transactional email alerts, and secure Stripe payment processing.
+- Built a personalized news app ranking RSS articles by user interests, country preferences, recency, and feedback.
+- Engineered an RSS ingestion pipeline that deduplicates URLs and enriches articles using AWS Bedrock and Claude Haiku.
+- Provisioned serverless infrastructure as code with AWS CDK and deployed through OpenNext and CloudFront.
 
----
+### 📚 [PedanticBookworm](https://github.com/mattarithwik/PedanticBookworm)
+*Rust · Axum · TypeScript · Gemini API · Google Books API · Docker · GitHub Actions*
 
-### 🎓 Education
-- **University of Texas at Dallas** — *B.S. in Computer Science* (GPA: 3.97 | Expected Graduation: Dec 2027)
-  - **Coursework:** Data Structures & Algorithms, Systems Programming in UNIX, Linear Algebra, Computer Architecture, Software Engineering.
+- Built an AI web app that identifies books from bookshelf photos and generates personalized reading critiques.
+- Developed a Rust/Axum backend integrating Gemini and Google Books APIs to extract metadata and calculate reading analytics.
+- Containerized the application with Docker and configured GitHub Actions CI/CD for automated testing and releases.
+
+### 👁️ [DeskDaemon](https://github.com/mattarithwik/DeskDaemon)
+*Swift · SwiftUI · Apple Vision · AVFoundation · macOS Accessibility*
+
+- Developed a native macOS menu bar app mapping 18+ hand gestures to 30+ configurable system actions.
+- Integrated macOS Accessibility APIs for window snapping, media controls, Mission Control, and Finder execution.
+- Built persistent JSON settings, gesture latency/FPS diagnostics, and 29 unit tests for core gesture logic.
+
+## Education
+
+**University of Texas at Dallas** — *B.S. in Computer Science*
+
+**GPA:** 3.94 · **Expected Graduation:** Dec 2027
+
+**Coursework:** Data Structures & Algorithms, Systems Programming in UNIX, Computer Architecture, Software Engineering, Linear Algebra, Discrete Mathematics
